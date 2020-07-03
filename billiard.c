@@ -1,6 +1,6 @@
 /*
-* A billiard game program that can run in Turbo C environment. 
-* In Chinese, billiards are called Taiqiu, so Taiqi or TQ is an identifier in the program
+* A billiard game program that can run under Turbo C environment. 
+* In Chinese, billiards are called Taiqiu, so there are Taiqiu and TQ as identifiers in the program
 *
 */
 
