@@ -1,7 +1,7 @@
 /*
  * FileName: tetris.c
  * Tetris is a Tetris game program that can run in Turbo C environment. 
- * In Chinese, Tetris is called square. Therefore, fangkuai or FK are used as identifiers in the program
+ * In Chinese, Tetris is called fangkuai. Therefore, fangkuai or FK are used as identifiers in the program
  * 
  */
  
